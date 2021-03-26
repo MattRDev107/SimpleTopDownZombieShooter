@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 5500156144837274632}
   - component: {fileID: 263810356}
   - component: {fileID: 263810355}
+  - component: {fileID: 1398012465}
+  - component: {fileID: 1398012467}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -121,3 +123,28 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.5
+--- !u!114 &1398012465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8203471827325766873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d338c0f1523ff943bbc9ac91b8a3067, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1398012467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8203471827325766873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e274319589740468cb7080ddc3019b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 2
