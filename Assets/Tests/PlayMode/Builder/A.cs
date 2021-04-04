@@ -6,6 +6,5 @@ public static class A
 {
 	public static SurvivorBuilder Survivor => new SurvivorBuilder();
 	public static GameObjectBuilder GameObject => new GameObjectBuilder();
-	public static TopDownCameraBuilder TopDownCamera => new TopDownCameraBuilder();
 
 }

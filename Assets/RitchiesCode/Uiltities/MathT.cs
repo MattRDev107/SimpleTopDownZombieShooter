@@ -7,6 +7,8 @@ namespace RitchiesCode.Utilities
 {
 	public static class MathT
 	{
+		public const float Camera2DOffsetZ = -10.0f;
+
 		public static Vector2 VectorAbs(Vector2 vector)
 		{
 			return new Vector2(Mathf.Abs(vector.x), Mathf.Abs(vector.y));

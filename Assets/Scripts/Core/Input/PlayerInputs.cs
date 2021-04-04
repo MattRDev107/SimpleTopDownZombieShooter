@@ -30,7 +30,7 @@ namespace MoonlanderCode.Input
                 },
                 {
                     ""name"": ""MousePos"",
-                    ""type"": ""Value"",
+                    ""type"": ""PassThrough"",
                     ""id"": ""c09601dd-0f15-4c08-b4a0-3ba7589b5bb8"",
                     ""expectedControlType"": ""Vector2"",
                     ""processors"": """",

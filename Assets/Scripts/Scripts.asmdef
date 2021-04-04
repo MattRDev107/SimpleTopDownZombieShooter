@@ -1,6 +1,6 @@
 {
     "name": "Scripts",
-    "rootNamespace": "",
+    "rootNamespace": "TDS",
     "references": [
         "GUID:75469ad4d38634e559750d17036d5f7c",
         "GUID:2ffaa939a02403d4c8a47e5d88db389b"
